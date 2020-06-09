@@ -3,96 +3,84 @@
     "id": 7,
     "email": "douglas.reynholm@reqres.in",
     "name": "Douglas Reynholm",
-    "role": "Manager",
-    "location": "Sacramento, CA",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+    "department": "Manager",
+    "location": "Sacramento, CA"
   },
   {
     "id": 8,
     "email": "matthew.patel@reqres.in",
     "name": "Matthew Patel",
-    "role": "Accountant",
-    "location": "Sacramento, CA",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
+    "department": "Accountant",
+    "location": "Sacramento, CA"
   },
   {
     "id": 9,
     "email": "tobias.funke@reqres.in",
     "name": "Tobias Funke",
-    "role": "Engineer",
-    "location": "Sacramento, CA",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"
+    "department": "Engineer",
+    "location": "Sacramento, CA"
   },
   {
     "id": 10,
     "email": "larry.deardorff@reqres.in",
     "name": "Larry Deardorff",
-    "role": "IT Specialist",
-    "location": "San Antonio, TX",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
+    "department": "IT Specialist",
+    "location": "San Antonio, TX"
   },
   {
     "id": 11,
     "email": "sean.frizzell@reqres.in",
     "name": "Sean Frizzell",
-    "role": "Software Engineer",
-    "location": "Chicago, IL",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
+    "department": "Software Engineer",
+    "location": "Chicago, IL"
   },
   {
     "id": 12,
     "email": "breen.heath@reqres.in",
     "name": "Breen Heath",
-    "role": "Manager",
-    "location": "Dallas, TX",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "Manager",
+    "location": "Dallas, TX"
   },
   {
     "id": 13,
     "email": "jonathan.irvin@reqres.in",
     "name": "Jonathan Irvin",
-    "role": "Software Engineer",
-    "location": "Tulsa, OK",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "Software Engineer",
+    "location": "Tulsa, OK"
   },
   {
     "id": 14,
     "email": "danielle.garcia@reqres.in",
     "name": "Danielle Garcia",
-    "role": "SEO Specialist",
-    "location": "Austin, TX",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "SEO Specialist",
+    "location": "Austin, TX"
   },
   {
     "id": 15,
     "email": "maurice.moss@reqres.in",
     "name": "Maurice Moss",
-    "role": "IT Specialist",
-    "location": "New York, NY",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "IT Specialist",
+    "location": "New York, NY"
   },
   {
     "id": 16,
     "email": "roy.trenneman@reqres.in",
     "name": "Roy Trenneman",
-    "role": "IT Specialist",
-    "location": "New York, NY",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "IT Specialist",
+    "location": "New York, NY"
   },
   {
     "id": 17,
     "email": "kelly.weeran@reqres.in",
     "name": "Kelly Weeran",
-    "role": "Game Developer",
-    "location": "Dallas, TX",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "Game Developer",
+    "location": "Dallas, TX"
   },
   {
     "id": 18,
     "email": "will.cooper@reqres.in",
     "name": "Will Cooper",
-    "role": "Accountant",
-    "location": "Tulsa, OK",
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    "department": "Accountant",
+    "location": "Tulsa, OK"
   }
 ]
